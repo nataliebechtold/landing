@@ -1,0 +1,22 @@
+.banner{
+  background-image: url(../../images/banner.svg);
+  background-size: cover;
+  height: 800px;
+  margin: 0px;
+  margin-bottom: 100px;
+}
+
+.banner h1{
+  color: white;
+  font-size: 80px;
+}
+
+.banner p{
+  color: white;
+  font-size: 30px;
+  padding: 0px;
+}
+.container-top{
+  padding-left: 100px;
+  padding-top: 40px;
+}

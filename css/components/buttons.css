@@ -1,0 +1,9 @@
+.btn-white-orange{
+  background-color: white;
+  border: solid 4px rgb(237, 113, 65);
+  color: rgb(237, 113, 65);
+  padding: 12px 32px;
+  border-radius: 30px;
+  margin-top: 50px;
+  font-weight: bold;
+}
